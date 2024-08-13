@@ -1,6 +1,6 @@
 This is a simple program that is able to conduct edge detection of the droplets and point out the narrowest part of them. To run this program successfully, therer are some libraries required to be installed. 
 They are:
-NumPy, NumPy and PyQt5. All these libraries can get installed in the terminal with the followingcommands:
+OpenCV, NumPy and PyQt5. All these libraries can get installed in the terminal with the followingcommands:
 pip install opencv-python;
 pip install numpy;
 pip install PyQt5.
